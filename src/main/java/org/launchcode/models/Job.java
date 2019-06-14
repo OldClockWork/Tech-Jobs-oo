@@ -23,7 +23,6 @@ public class Job {
                PositionType aPositionType, CoreCompetency aSkill) {
 
         this();
-
         name = aName;
         employer = aEmployer;
         location = aLocation;
